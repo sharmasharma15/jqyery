@@ -1,4 +1,0 @@
-jqyery
-======
-
-jquery functionality
